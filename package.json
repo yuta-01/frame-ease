@@ -1,0 +1,20 @@
+{
+  "name": "frame-ease",
+  "version": "0.1.1",
+  "description": "An easing library for creative coding.",
+  "license": "MIT",
+  "author": "Yuta Aoki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuta-01/frame-ease.git"
+  },
+  "files": [
+    "frame-ease.js",
+    "frame-ease.min.js",
+    "frame-ease.core.min.js",
+    "docs/frame-ease.gif",
+    "README.md",
+    "README.ja.md",
+    "LICENSE"
+  ]
+}
